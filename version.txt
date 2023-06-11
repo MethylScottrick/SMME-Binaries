@@ -1,2 +1,2 @@
-0.1.132
-https://github.com/MethylScottrick/SMME-Binaries/releases/tag/v0.1.132-prealpha
+0.1.133
+https://github.com/MethylScottrick/SMME-Binaries/releases/tag/v0.1.133-prealpha
